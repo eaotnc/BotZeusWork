@@ -13,9 +13,11 @@ case 1: $type_name = $translate["KEY"]; break;
 4. เอาไฟล์ json ที่ได้ตั้งชื่อเหมือนชื่อไฟล์แต่เป็น .lang.json แทน แล้วเอาไปไว้คู่กับไฟล์ php ที่จะแก้
 5. เพิ่ม code ลงไปหลัง require_once ข้างบนของไฟล์
 
-require_once("../translate.php"); // ../ ตามจำนวน folder ถ้า 2 ชั้นก็เป็น ../../
-
+require_once("../translate.php"); 
 $translate = init_translate("./FILE_NAME.lang.json")
+// ../ ตามจำนวน folder ถ้า 2 ชั้นก็เป็น ../../
+
+
 
 6. แทน text ภาษาไทยให้ตรงกับคำที่แปลมาด้วย key จาก json
 

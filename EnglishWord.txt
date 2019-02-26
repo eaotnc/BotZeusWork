@@ -1,35 +1,35 @@
-Set the score criteria
-year
-Scatter table
-Announced
-Recording criteria for cutting grades
-Must be equal to
-Scoring system and cutting grades
-Use this rating range
-Should at least have an evaluation in the form
-Full score
-Student information was not found for recording the specified grade.
-Record
-Total percentage value
-category
-use
-In the last order
-Therefore do not have to enter the scoring range
-rank
 Evaluation
-Not used
-Of the score box in the score record table
-Can't connect to the server
-Only that
-The result of this score will be displayed in the column that
-Set the score range
-The program is currently searching for information.
-Term
-Score record
-Announce
 Unable to contact the database.
-Check the score
-Percentage
+Full score
+use
+Score record
+Can't connect to the server
+Recording criteria for cutting grades
+Set the score criteria
+Of the score box in the score record table
+Therefore do not have to enter the scoring range
+Use this rating range
+Total percentage value
+Scatter table
+Must be equal to
+Student information was not found for recording the specified grade.
+Should at least have an evaluation in the form
+Set the score range
+In the last order
+category
 Back Home
+year
+Only that
+Record
+Check the score
+Announce
 You define the cut-grade model of this group by choosing not to use the grade cutting system to help process.
+Scoring system and cutting grades
+Percentage
 Please wait
+Term
+The result of this score will be displayed in the column that
+Announced
+Not used
+rank
+The program is currently searching for information.

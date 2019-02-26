@@ -398,12 +398,12 @@ if($gradetype<3)
 }
 else
 {
-	$sc = "100.00";
+	$sc = ''.$translate['RECORD'].'';
 	$sf = $s;//number_format($s, 2, '.', '');
 	$uc	= number_format($s-0.01, 2, '.', '');
 	$uf	= "0.00";
 ?>			
-<input type="hidden" name="a" id="a" value="<?=$a?>">
+<input type='hidden' name="a" id="a" value="<?=$a?>">
 <input type="hidden" name="bp" id="bp" value="<?=$bp?>">
 <input type="hidden" name="b" id="b" value="<?=$b?>">
 <input type="hidden" name="cp" id="cp" value="<?=$cp?>">
@@ -421,9 +421,10 @@ else
 	<tr>
 		<td height="1"></td>
 	</tr>
+	
 	<tr>
 		<td height="18" align="left">
-		<input type="button" value="  ".$translate["RECORD"]."   " title="".$translate["RECORDING_CRITERIA_FOR_CUTTING_GRADES"]." <?=$subject_id?>" onClick="return go2SaveFactor()"></td>
+		<input type="button" value=''.$translate['RECORD'].''title="".$translate["RECORDING_CRITERIA_FOR_CUTTING_GRADES"]." <?=$subject_id?>" onClick="return go2SaveFactor()"></td>
 	</tr>
 <?
 }
