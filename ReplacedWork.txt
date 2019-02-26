@@ -36,15 +36,15 @@ $dontlog		= $_REQUEST["dontlog"];
 
 if(!$year||!$semester||!$subject_id||!$keys_id)
 {
-	$msg = urlencode("".$translate["NO_STUDENT_INFORMATION_WAS_FOUND_FOR_RECORDING_THE_SPECIFIED_GRADE"]."...");
+	$msg = urlencode("ไม่พบข้อมูลนักศึกษาสำหรับการบันทึกเกรดที่กำหนด...");
 	header("Location: ../u_teacher_v20/grading_record.php?msg=$msg");
 	die();
 }
 
 // establish the link of mysql connection
 /*
-mysql_connect(HOST, USERNAME, PASSWORD) or die( mysql_error() );// die ("".$translate["CANNOT_CONNECT_TO_THE_SERVER"]."");
-mysql_select_db(DB_NAME) or die( mysql_error() );// die( "".$translate["UNABLE_TO_CONTACT_THE_DATABASE"]."");
+mysql_connect(HOST, USERNAME, PASSWORD) or die( mysql_error() );// die ("ไม่สามารถเชื่อมต่อไปยังเซิฟเวอร์ได้");
+mysql_select_db(DB_NAME) or die( mysql_error() );// die( "ไม่สามารถติดต่อฐานข้อมูลได้");
 */
 set_time_limit(30*60);
 
@@ -54,31 +54,31 @@ require_once("grading_record_header.php");
 <script language="JavaScript" type="text/JavaScript">
 function go2Criteria()
 {
-	window.status	= "".$translate["PLEASE_WAIT"]."...".$translate["THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION"]."...";
+	window.status	= "โปรดรอสักครู่...ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่...";
 	document.save.action="grading_record_criteria.php";
 	document.save.submit();
 }
 function go2Factor()
 {
-	window.status	= "".$translate["PLEASE_WAIT"]."...".$translate["THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION"]."...";
+	window.status	= "โปรดรอสักครู่...ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่...";
 	document.save.action="grading_record_factor.php";
 	document.save.submit();
 }
 function go2Score()
 {
-	window.status	= "".$translate["PLEASE_WAIT"]."...".$translate["THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION"]."...";
+	window.status	= "โปรดรอสักครู่...ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่...";
 	document.save.action="grading_record_score.php";
 	document.save.submit();
 }
 function go2Show()
 {
-	window.status	= "".$translate["PLEASE_WAIT"]."...".$translate["THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION"]."...";
+	window.status	= "โปรดรอสักครู่...ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่...";
 	document.save.action="grading_record_show.php";
 	document.save.submit();
 }
 function go2Table()
 {
-	window.status	= "".$translate["PLEASE_WAIT"]."...".$translate["THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION"]."...";
+	window.status	= "โปรดรอสักครู่...ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่...";
 	document.save.action="grading_record_table.php";
 	document.save.submit();
 }
@@ -86,7 +86,7 @@ function go2SaveFactor()
 {
 	if(!validateFactor())
 		return false;
-	window.status	= "".$translate["PLEASE_WAIT"]."...".$translate["THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION"]."...";
+	window.status	= "โปรดรอสักครู่...ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่...";
 	document.save.action="grading_record_factor_save.php";
 	document.save.submit();
 }
@@ -154,19 +154,19 @@ function enableInput(I)
     <TD height="10"></TD>
   </TR>
   <TR>
-    <TD align="center" vAlign=middle><a href="../index.php"><img src="images/u_teacher2.jpg" alt="".$translate["BACK_HOME"]."" width="750" height="40" border="0"></a></TD>
+    <TD align="center" vAlign=middle><a href="../index.php"><img src="images/u_teacher2.jpg" alt="กลับไปหน้าแรก" width="750" height="40" border="0"></a></TD>
   </TR>
   <TR>
     <TD height="10" align="left"></TD>
   </TR>
   <TR>
-    <TD height=21 align="center" background="../images/label_m21.jpg"><strong><?=$translate["SCORING_SYSTEM_AND_CUTTING_GRADE"]?></strong></TD>
+    <TD height=21 align="center" background="../images/label_m21.jpg"><strong>ระบบบันทึกคะแนนและตัดเกรด</strong></TD>
   </TR>
 	<tr>
 		<td height="1" align="center"></td>
 	</tr>
 	<tr>
-		<td height="18" align="center" bgcolor="#E1E1E1"><strong><?=$translate["REGULAR_TER"]?>&nbsp;<?=$semester?>&nbsp;&nbsp;&nbsp;<?=$translate["YEAR"]?>&nbsp;<?=$year?></strong></td>
+		<td height="18" align="center" bgcolor="#E1E1E1"><strong>ประจำภาคเรียนที่&nbsp;<?=$semester?>&nbsp;&nbsp;&nbsp;ปีการศึกษา&nbsp;<?=$year?></strong></td>
 	</tr>
 	<tr>
 		<td height="1" align="center" bgcolor="#E1E1E1"></td>
@@ -187,7 +187,7 @@ function enableInput(I)
 		<td height="1"></td>
 	</tr>
   <TR>
-    <TD height=21 align="center" background="../images/horline_c750o.jpg"><a href="#" onClick="return go2Criteria()">".$translate["SET_THE_SCORE_CRITERIA"]."</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;".$translate["SET_THE_SCORE_RANGE"]."&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onClick="return go2Score()">".$translate["SCORE_RECOR"]."</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onClick="return go2Show()">".$translate["CHECK_THE_SCORE"]."</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onClick="return go2Table()"><?=$translate["SCATTER_TABLE"]?></a></TD>
+    <TD height=21 align="center" background="../images/horline_c750o.jpg"><a href="#" onClick="return go2Criteria()">กำหนดเกณฑ์คะแนน</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;กำหนดช่วงคะแนน&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onClick="return go2Score()">บันทึกคะแนน</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onClick="return go2Show()">ตรวจสอบคะแนน</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onClick="return go2Table()">ตารางกระจายคะแนน</a></TD>
   </TR>
 	<tr>
 		<td height="1"></td>
@@ -203,7 +203,7 @@ if(!$system_cut)
 		<td bgcolor="#ECECEC"><table width="750" border="1" cellpadding="0" cellspacing="0">
 			<tr>
 				<td height="32" align="center" bgcolor="#F0F0F0">
-				คุณกำหนด".$translate["GRADE_CUTTING_STYLE"]."ของกลุ่มนี้โดยเลือกที่จะไม่ใช้ระบบตัด".$translate["GRADE"]."ช่วยประมวลผล...ดังนั้นจึงไม่ต้องป้อนข้อมูลการ<?=$translate["SET_THE_SCORE_RANGE"]?> 
+				คุณกำหนดรูปแบบการตัดเกรดของกลุ่มนี้โดยเลือกที่จะไม่ใช้ระบบตัดเกรดช่วยประมวลผล...ดังนั้นจึงไม่ต้องป้อนข้อมูลการกำหนดช่วงคะแนน 
 				</td>
 			</tr>
 		</table></td>
@@ -260,7 +260,7 @@ if($gradetype<3)
 	$ff	= "0.00";
 ?>			
 <input type="hidden" name="s" id="s" value="<?=$s?>">
-			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 1 ของช่องคะแนนในตาราง".$translate["SCORE_RECOR"]."">
+			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 1 ของช่องคะแนนในตารางบันทึกคะแนน">
 				<td height="21" align="center" bgcolor="#ECECEC"><div id="f1_num">1</div></td>
 				<td></td>
 				<td align="center" bgcolor="#ECECEC"><input type="text" name="f1_txt" id="f1_txt" value="<?=$f1_txt?>" size="16" maxlength="16" <?=!$f1_del?"style='visibility:hidden'":NULL?>></td>
@@ -292,7 +292,7 @@ if($gradetype<3)
 			<tr>
 				<td height="1"></td>
 			</tr>
-			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 2 ของช่องคะแนนในตาราง".$translate["SCORE_RECOR"]."">
+			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 2 ของช่องคะแนนในตารางบันทึกคะแนน">
 				<td height="21" align="center" bgcolor="#FDF3E7"><div id="f2_num">2</div></td>
 				<td></td>
 				<td align="center" bgcolor="#FDF3E7"><input type="text" name="f2_txt" id="f2_txt" value="<?=$f2_txt?>" size="16" maxlength="16" <?=!$f2_del?"style='visibility:hidden'":NULL?>></td>
@@ -320,7 +320,7 @@ if($gradetype<3)
 			<tr>
 				<td height="1"></td>
 			</tr>
-			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 3 ของช่องคะแนนในตาราง".$translate["SCORE_RECOR"]."">
+			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 3 ของช่องคะแนนในตารางบันทึกคะแนน">
 				<td height="21" align="center" bgcolor="#ECECEC"><div id="f3_num">3</div></td>
 				<td></td>
 				<td align="center" bgcolor="#ECECEC"><input type="text" name="f3_txt" id="f3_txt" value="<?=$f3_txt?>" size="16" maxlength="16" <?=!$f3_del?"style='visibility:hidden'":NULL?>></td>
@@ -348,7 +348,7 @@ if($gradetype<3)
 			<tr>
 				<td height="1"></td>
 			</tr>
-			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 4 ของช่องคะแนนในตาราง".$translate["SCORE_RECOR"]."">
+			<tr title="การปรเิมินผลของช่วงคะแนนนี้จะถูกนำไปแสดงในคอลัมน์ที่ 4 ของช่องคะแนนในตารางบันทึกคะแนน">
 				<td height="21" align="center" bgcolor="#FDF3E7"><div id="f4_num">4</div></td>
 				<td></td>
 				<td align="center" bgcolor="#FDF3E7"><input type="text" name="f4_txt" id="f4_txt" value="<?=$f4_txt?>" size="16" maxlength="16" <?=!$f4_del?"style='visibility:hidden'":NULL?>></td>
@@ -423,7 +423,7 @@ else
 	</tr>
 	<tr>
 		<td height="18" align="left">
-		<input type="button" value="  ".$translate["RECORD"]."   " title="".$translate["RECORDING_CRITERIA_FOR_CUTTING_GRADE_COURSES"]." <?=$subject_id?>" onClick="return go2SaveFactor()"></td>
+		<input type="button" value="  บันทึก   " title="บันทึกเกณฑ์การตัดเกรดรายวิชา <?=$subject_id?>" onClick="return go2SaveFactor()"></td>
 	</tr>
 <?
 }

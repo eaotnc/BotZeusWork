@@ -2,7 +2,7 @@ import re
 import json
 import io
 
-with io.open('text.php', 'r',encoding="utf-8")  as file :
+with io.open('ReplacedWork.txt', 'r',encoding="utf-8")  as file :
         filedata = file.read()
         
 

@@ -1,49 +1,35 @@
-CALCULATING_THE_GRADE_RANGE_USING_THE_METHOD
-THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION
-THE_HIGHEST_GRADE_SHOULD_BE_HIGHER_THAN_THE_LOWEST_GRADE
-LOWER
-SCORE_SINCE
-CUT_THE_GRADE_USING
-SET_THE_SCORE_RANGE
-RECORD
-FOR_CALCULATING_THE_GRADE_RANGE_USING_THE_METHO
-PASS_OR_NOT_PASS
-REGULAR_TER
-THE_LOWEST_GRADE
-YOU_HAVE_TO_RECORD_ALL_STUDENTS_SCORES
-NO_STUDENT_INFORMATION_WAS_FOUND_FOR_RECORDING_THE_SPECIFIED_GRADE
-BECAUSE
-PREFERRED_GRADE_RANGE
-MUST_BE_MORE_THAN_A_GRADE
-AND_THEN_RECORD_THE_SCORE_RANGE_A
-AND_LESS_THAN_GRADE_POINTS
-SCOR
-RECORDING_CRITERIA_FOR_CUTTING_GRADE_COURSES
-UNABLE_TO_CONTACT_THE_DATABASE
-SCATTER_TABLE
-CANNOT_CONNECT_TO_THE_SERVER
-THEN_CUT_THE_GRADE_FOR_STUDENTS_AGAIN
-IF_YOU_HAVE_ALREADY_RECORDED_STUDENT_SCORES
-MEANING
-EVERY_STUDENT_S_SCORE_WILL_BE_CALCULATED_TO_DIVIDE_THE_RANGE
-THE_HIGHEST_GRADE
-CHECK_THE_SCORE
-MUST_BE_GREATER_THAN_THE_GRADE_SCORE
-REACH_THE_SCORE
-BACK_HOME
-CREDITS_MULTIPLIER
-PLEASE_WAIT
-SCORING_SYSTEM_AND_CUTTING_GRADE
-SCORE_RECOR
-GRADE_CUTTING_STYLE
-UP
-YOU_SET_THE_CRITERIA_INCORRECTLY
-YOU_HAVE_TO_CHOOSE_THE_HIGHEST_GRADE_AND_THE_LOWEST_GRADE
-CUSTOMIZE_THE_SCORE_RANGE
-GRADE_GRAD
-SET_THE_SCORE_CRITERIA
-YEAR
-CLICK
-GRADE
-AND_LESS_THAN_OR_EQUAL_TO
-TO_GET_THE_CORRECT_RESUL
+Set the score criteria
+year
+Scatter table
+Announced
+Recording criteria for cutting grades
+Must be equal to
+Scoring system and cutting grades
+Use this rating range
+Should at least have an evaluation in the form
+Full score
+Student information was not found for recording the specified grade.
+Record
+Total percentage value
+category
+use
+In the last order
+Therefore do not have to enter the scoring range
+rank
+Evaluation
+Not used
+Of the score box in the score record table
+Can't connect to the server
+Only that
+The result of this score will be displayed in the column that
+Set the score range
+The program is currently searching for information.
+Term
+Score record
+Announce
+Unable to contact the database.
+Check the score
+Percentage
+Back Home
+You define the cut-grade model of this group by choosing not to use the grade cutting system to help process.
+Please wait
