@@ -1,0 +1,296 @@
+[
+    {
+        "CALCULATING_THE_GRADE_RANGE_USING_THE_METHOD": {
+            "th": "การคำนวณคิดช่วงเกรดด้วยวิธี",
+            "en": "Calculating the grade range using the method"
+        }
+    },
+    {
+        "THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION": {
+            "th": "ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่",
+            "en": "The program is currently searching for information"
+        }
+    },
+    {
+        "THE_HIGHEST_GRADE_SHOULD_BE_HIGHER_THAN_THE_LOWEST_GRADE": {
+            "th": "เกรดที่มากที่สุดควรจะสูงกว่าเกรดที่น้อยที่สุด",
+            "en": "The highest grade should be higher than the lowest grade"
+        }
+    },
+    {
+        "LOWER": {
+            "th": "ต่ำกว่า",
+            "en": "lower"
+        }
+    },
+    {
+        "SCORE_SINCE": {
+            "th": "คะแนนตั้งแต่",
+            "en": "Score since"
+        }
+    },
+    {
+        "CUT_THE_GRADE_USING": {
+            "th": "ตัดเกรดโดยใช้",
+            "en": "Cut the grade using"
+        }
+    },
+    {
+        "SET_THE_SCORE_RANGE": {
+            "th": "กำหนดช่วงคะแนน",
+            "en": "Set the score range"
+        }
+    },
+    {
+        "RECORD": {
+            "th": "บันทึก",
+            "en": "Record"
+        }
+    },
+    {
+        "FOR_CALCULATING_THE_GRADE_RANGE_USING_THE_METHO": {
+            "th": "เพื่อการคำนวณคิดช่วงเกรดด้วยวิธี",
+            "en": "For calculating the grade range using the metho"
+        }
+    },
+    {
+        "PASS_OR_NOT_PASS": {
+            "th": "แบบผ่านหรือไม่ผ่าน",
+            "en": "Pass or not pass"
+        }
+    },
+    {
+        "REGULAR_TER": {
+            "th": "ประจำภาคเรียนที่",
+            "en": "Regular term"
+        }
+    },
+    {
+        "THE_LOWEST_GRADE": {
+            "th": "เกรดที่น้อยที่สุด",
+            "en": "The lowest grade"
+        }
+    },
+    {
+        "YOU_HAVE_TO_RECORD_ALL_STUDENTS_SCORES": {
+            "th": "คุณต้องบันทึกคะแนนของนักศึกษาให้ครบทุกคนเสียก่อน",
+            "en": "You have to save all students' scores"
+        }
+    },
+    {
+        "NO_STUDENT_INFORMATION_WAS_FOUND_FOR_RECORDING_THE_SPECIFIED_GRADE": {
+            "th": "ไม่พบข้อมูลนักศึกษาสำหรับการบันทึกเกรดที่กำหนด",
+            "en": "No student information was found for saveing the specified grade"
+        }
+    },
+    {
+        "BECAUSE": {
+            "th": "เพราะว่า",
+            "en": "because"
+        }
+    },
+    {
+        "PREFERRED_GRADE_RANGE": {
+            "th": "ช่วงเกรดที่ต้องการ",
+            "en": "Preferred grade range"
+        }
+    },
+    {
+        "MUST_BE_MORE_THAN_A_GRADE": {
+            "th": "ต้องมากกว่าเกรด",
+            "en": "Must be more than a grade"
+        }
+    },
+    {
+        "AND_THEN_RECORD_THE_SCORE_RANGE_A": {
+            "th": "แล้วจึงค่อทำการบันทึกช่วงคะแนนแบบ",
+            "en": "And then save the score range a"
+        }
+    },
+    {
+        "AND_LESS_THAN_GRADE_POINTS": {
+            "th": "และน้อยกว่าคะแนนเกรด",
+            "en": "And less than grade points"
+        }
+    },
+    {
+        "SCOR": {
+            "th": "คะแนนแบบ",
+            "en": "Scor"
+        }
+    },
+    {
+        "RECORDING_CRITERIA_FOR_CUTTING_GRADE_COURSES": {
+            "th": "บันทึกเกณฑ์การตัดเกรดรายวิชา",
+            "en": "Recording criteria for grading courses"
+        }
+    },
+    {
+        "UNABLE_TO_CONTACT_THE_DATABASE": {
+            "th": "ไม่สามารถติดต่อฐานข้อมูลได้",
+            "en": "Unable to contact the database"
+        }
+    },
+    {
+        "SCATTER_TABLE": {
+            "th": "ตารางกระจายคะแนน",
+            "en": "Scatter table"
+        }
+    },
+    {
+        "CANNOT_CONNECT_TO_THE_SERVER": {
+            "th": "ไม่สามารถเชื่อมต่อไปยังเซิฟเวอร์ได้",
+            "en": "Cannot connect to the server"
+        }
+    },
+    {
+        "THEN_CUT_THE_GRADE_FOR_STUDENTS_AGAIN": {
+            "th": "แล้วตัดเกรดให้นักศึกษาอีกครั้ง",
+            "en": "Then grading for students again"
+        }
+    },
+    {
+        "IF_YOU_HAVE_ALREADY_RECORDED_STUDENT_SCORES": {
+            "th": "ถ้าคุณได้บันทึกคะแนนของนักศึกษาไว้ก่อนแล้ว",
+            "en": "If you have already saveed student scores"
+        }
+    },
+    {
+        "MEANING": {
+            "th": "ความหมาย",
+            "en": "meaning"
+        }
+    },
+    {
+        "EVERY_STUDENT_S_SCORE_WILL_BE_CALCULATED_TO_DIVIDE_THE_RANGE": {
+            "th": "คะแนนของนักศึกษาทุกคนจะถูกนำมาคำนวณเพื่อแบ่งช่วง",
+            "en": "Every student's score will be calculated to divide the range"
+        }
+    },
+    {
+        "THE_HIGHEST_GRADE": {
+            "th": "เกรดที่มากที่สุด",
+            "en": "The highest grade"
+        }
+    },
+    {
+        "CHECK_THE_SCORE": {
+            "th": "ตรวจสอบคะแนน",
+            "en": "Check the score"
+        }
+    },
+    {
+        "MUST_BE_GREATER_THAN_THE_GRADE_SCORE": {
+            "th": "ต้องมากกว่าคะแนนเกรด",
+            "en": "Must be greater than the grade score"
+        }
+    },
+    {
+        "REACH_THE_SCORE": {
+            "th": "ถึงคะแนน",
+            "en": "Reach the score"
+        }
+    },
+    {
+        "BACK_HOME": {
+            "th": "กลับไปหน้าแรก",
+            "en": "Back Home"
+        }
+    },
+    {
+        "CREDITS_MULTIPLIER": {
+            "th": "ตัวคูณหน่วยกิต",
+            "en": "Credits Multiplier"
+        }
+    },
+    {
+        "PLEASE_WAIT": {
+            "th": "โปรดรอสักครู่",
+            "en": "Please wait"
+        }
+    },
+    {
+        "SCORING_SYSTEM_AND_CUTTING_GRADE": {
+            "th": "ระบบบันทึกคะแนนและตัดเกรด",
+            "en": "Scoring system and grading"
+        }
+    },
+    {
+        "SCORE_RECOR": {
+            "th": "บันทึกคะแนน",
+            "en": "Score recor"
+        }
+    },
+    {
+        "GRADE_CUTTING_STYLE": {
+            "th": "รูปแบบการตัดเกรด",
+            "en": "Grade cutting style"
+        }
+    },
+    {
+        "UP": {
+            "th": "ขึ้นไป",
+            "en": "Up"
+        }
+    },
+    {
+        "YOU_SET_THE_CRITERIA_INCORRECTLY": {
+            "th": "คุณกำหนดเกณฑ์ไม่ถูกต้อง",
+            "en": "You set the criteria incorrectly"
+        }
+    },
+    {
+        "YOU_HAVE_TO_CHOOSE_THE_HIGHEST_GRADE_AND_THE_LOWEST_GRADE": {
+            "th": "คุณต้องเลือกเกรดที่มากที่สุดและเกรดที่น้อยที่สุด",
+            "en": "You have to choose the highest grade and the lowest grade"
+        }
+    },
+    {
+        "CUSTOMIZE_THE_SCORE_RANGE": {
+            "th": "กำหนดช่วงคะแนนเอง",
+            "en": "Customize the score range"
+        }
+    },
+    {
+        "GRADE_GRAD": {
+            "th": "คะแนนเกรด",
+            "en": "Grade grad"
+        }
+    },
+    {
+        "SET_THE_SCORE_CRITERIA": {
+            "th": "กำหนดเกณฑ์คะแนน",
+            "en": "Set the score criteria"
+        }
+    },
+    {
+        "YEAR": {
+            "th": "ปีการศึกษา",
+            "en": "year"
+        }
+    },
+    {
+        "CLICK": {
+            "th": "คลิก",
+            "en": "click"
+        }
+    },
+    {
+        "GRADE": {
+            "th": "เกรด",
+            "en": "grade"
+        }
+    },
+    {
+        "AND_LESS_THAN_OR_EQUAL_TO": {
+            "th": "และน้อยกว่าหรือเท่ากับ",
+            "en": "And less than or equal to"
+        }
+    },
+    {
+        "TO_GET_THE_CORRECT_RESUL": {
+            "th": "ให้ได้ผลที่ถูกต้อง",
+            "n": "To get the correct resul"
+        }
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "SET_THE_SCORE_RANGE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "EVERY_STUDENT_S_SCORE_WILL_BE_CALCULATED_TO_DIVIDE_THE_RANGE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "PLEASE_WAIT": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "YOU_HAVE_TO_CHOOSE_THE_HIGHEST_GRADE_AND_THE_LOWEST_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "FOR_CALCULATING_THE_GRADE_RANGE_USING": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "THE_HIGHEST_GRADE_SHOULD_BE_HIGHER_THAN_THE_LOWEST_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CREDITS_MULTIPLIER": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CUSTOMIZE_THE_SCORE_RANGE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CLICK": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "YEAR": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "SCORE_RECORD": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "YOU_HAVE_TO_RECORD_ALL_STUDENTS_SCORES_FIRST": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "AND_LESS_THAN_GRADE_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "MEANING": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "SCATTER_TABLE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "RECORDING_CRITERIA_FOR_CUTTING_GRADES": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "YOU_SET_THE_CRITERIA_INCORRECTLY": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CUT_GRADES_USING": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "MINIMAL_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "STUDENT_INFORMATION_WAS_NOT_FOUND_FOR_RECORDING_THE_SPECIFIED_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "MUST_BE_MORE_THAN_A_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "UP_TO_THE_SCORE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "SCORING_SYSTEM_AND_CUTTING_GRADES": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "TO_GET_THE_CORRECT_RESULT": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "GRADE_CUTTING_PATTERN": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "BACK_HOME": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "SCORE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CHECK_THE_SCORE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "BECAUSE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "THE_HIGHEST_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "UP": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "SET_THE_SCORE_CRITERIA": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "THEN_CUT_THE_GRADE_FOR_STUDENTS_AGAIN": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "AND_THEN_RECORD_THE_SCORE_RANGE_AS": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "MUST_BE_GREATER_THAN_THE_GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "IF_YOU_HAVE_ALREADY_RECORDED_STUDENT_SCORES": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "LOWER": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "UNABLE_TO_CONTACT_THE_DATABASE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "TERM": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "PREFERRED_GRADE_RANGE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "SCORE_FROM": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "PASS_OR_NOT_PASS": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CAN_T_CONNECT_TO_THE_SERVER": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "GRADE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "RECORD": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "GRADE_SCORE": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "CALCULATION_OF_GRADE_RANGE_METHODS": {
+            "th": "thai",
+            "en": "english"
+        }
+    },
+    {
+        "AND_LESS_THAN_OR_EQUAL_TO": {
+            "th": "thai",
+            "en": "english"
+        }
+    }
+]
