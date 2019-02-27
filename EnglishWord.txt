@@ -1,35 +1,7 @@
-Evaluation
-Unable to contact the database.
-Full score
-use
-Score record
-Can't connect to the server
-Recording criteria for cutting grades
-Set the score criteria
-Of the score box in the score record table
-Therefore do not have to enter the scoring range
-Use this rating range
-Total percentage value
-Scatter table
-Must be equal to
-Student information was not found for recording the specified grade.
-Should at least have an evaluation in the form
-Set the score range
-In the last order
-category
-Back Home
-year
-Only that
-Record
-Check the score
-Announce
-You define the cut-grade model of this group by choosing not to use the grade cutting system to help process.
-Scoring system and cutting grades
-Percentage
-Please wait
-Term
-The result of this score will be displayed in the column that
-Announced
-Not used
-rank
-The program is currently searching for information.
+student
+at 
+back to 
+on
+is 
+Please see other details.
+next

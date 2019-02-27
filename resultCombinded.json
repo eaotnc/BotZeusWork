@@ -1,0 +1,602 @@
+[
+    {
+        "IN_THE_LAST_ORDER": {
+            "th": "ในลำดับสุดท้าย",
+            "en": "In the last order"
+        }
+    },
+    {
+        "USERS_MUST_FILL_OUT_THE_SCORE.": {
+            "th": "ผู้ใช้งานต้องกรอกคะแนน",
+            "en": "Users must fill out the score."
+        }
+    },
+    {
+        "IN_CASE_OF_CHOOSING_NOT_TO_USE_THE_GRADE_CUTTING_SYSTEM": {
+            "th": "ในกรณีที่เลือกไม่ใช้ระบบตัดเกรด",
+            "en": "In case of choosing not to use the grading system"
+        }
+    },
+    {
+        "TO_THINK": {
+            "th": "ให้คิดเป็น",
+            "en": "To think"
+        }
+    },
+    {
+        "IS": {
+            "th": "ได้คือ",
+            "en": "Is"
+        }
+    },
+    {
+        "COME_IN_ONLY_SO_NO_NEED": {
+            "th": "เข้ามาเท่านั้นดังนั้นไม่จำเป็นต้องมี",
+            "en": "Come in only so no need"
+        }
+    },
+    {
+        "FOR_THE_SYSTEM_TO_SAVE_DATA": {
+            "th": "เพื่อให้ระบบบันทึกข้อมูล",
+            "en": "For the system to save data"
+        }
+    },
+    {
+        "GRADE": {
+            "th": "เกรด",
+            "en": "grade"
+        }
+    },
+    {
+        "STUDENTS_FROM_OTHER_DISCIPLINES": {
+            "th": "นักศึกษาจากสาขาวิชาอื่น",
+            "en": "Students from other disciplines"
+        }
+    },
+    {
+        "YOU_WANT_TO_CANCEL_THE_RESULT_OF_FILLING_OUT_THE_SCORE.": {
+            "th": "คุณต้องการที่จะยกเลิกผลการกรอกคะแนน",
+            "en": "You want to cancel the result of filling out the score."
+        }
+    },
+    {
+        "PERSON": {
+            "th": "คน",
+            "en": "person"
+        }
+    },
+    {
+        "SCHOOL": {
+            "th": "นศ",
+            "en": "School"
+        }
+    },
+    {
+        "CODE": {
+            "th": "รหัส",
+            "en": "code"
+        }
+    },
+    {
+        "ORDER": {
+            "th": "ลำดับ",
+            "en": "order"
+        }
+    },
+    {
+        "SUMMARY": {
+            "th": "สรุป",
+            "en": "Summary"
+        }
+    },
+    {
+        "NAME": {
+            "th": "ชื่อ",
+            "en": "name"
+        }
+    },
+    {
+        "UPLOAD_FILES_TABLE_GRADES_AND_EACH_SUBJECT_GRADES": {
+            "th": "อัพโหลดไฟล์ตารางคะแนนและเกรดของรายวิชา",
+            "en": "Upload files, table grades and each subject grades."
+        }
+    },
+    {
+        "FOUND_ERRORS_IN_RECORDING_STUDENT_SCORES,_PROBABLY_DUE_TO": {
+            "th": "พบข้อผิดพลาดในการบันทึกคะแนนนักศึกษาอาจเนื่องจาก",
+            "en": "Found errors in recording student scores, probably due to"
+        }
+    },
+    {
+        "ETC": {
+            "th": "เป็นต้น",
+            "en": "etc."
+        }
+    },
+    {
+        "MANUAL": {
+            "th": "คู่มือ",
+            "en": "Manual"
+        }
+    },
+    {
+        "BACK_HOME": {
+            "th": "กลับไปหน้าแรก",
+            "en": "Back Home"
+        }
+    },
+    {
+        "PAGE": {
+            "th": "หน้า",
+            "en": "page"
+        }
+    },
+    {
+        "PREVIOUS_PAGE": {
+            "th": "หน้าที่ผ่านมา",
+            "en": "Previous page"
+        }
+    },
+    {
+        "YEAR": {
+            "th": "ปีการศึกษา",
+            "en": "year"
+        }
+    },
+    {
+        "FIRST_PAGE": {
+            "th": "หน้าแรก",
+            "en": "first page"
+        }
+    },
+    {
+        "LAST_NAMES": {
+            "th": "นามสกุล",
+            "en": "last names"
+        }
+    },
+    {
+        "SUCH_AS": {
+            "th": "เช่น",
+            "en": "such as"
+        }
+    },
+    {
+        "TOTAL_NUMBER_OF_STUDENTS": {
+            "th": "รวมจำนวนนักศึกษา",
+            "en": "Total number of students"
+        }
+    },
+    {
+        "RECORD": {
+            "th": "บันทึก",
+            "en": "Record"
+        }
+    },
+    {
+        "USERS_CHOOSE_NOT_TO_USE_THE_GRADE_CUTTING_SYSTEM.": {
+            "th": "ผู้ใช้งานเลือกไม่ใช้ระบบตัดเกรด",
+            "en": "Users choose not to use the grading system."
+        }
+    },
+    {
+        "GRADE_SHOULD_BE": {
+            "th": "เกรดควรเป็น",
+            "en": "Grade should be"
+        }
+    },
+    {
+        "REPLACE": {
+            "th": "แทน",
+            "en": "replace"
+        }
+    },
+    {
+        "STUDENT_INFORMATION_WAS_NOT_FOUND_FOR_RECORDING_THE_SPECIFIED_GRADE.": {
+            "th": "ไม่พบข้อมูลนักศึกษาสำหรับการบันทึกเกรดที่กำหนด",
+            "en": "Student information was not found for recording the specified grade."
+        }
+    },
+    {
+        "SET_THE_SCORE_RANGE": {
+            "th": "กำหนดช่วงคะแนน",
+            "en": "Set the score range"
+        }
+    },
+    {
+        "NOT_SPECIFIED_IN_THE_SCHEDULE": {
+            "th": "ที่ไม่ระบุในตารางสอน",
+            "en": "Not specified in the schedule"
+        }
+    },
+    {
+        "NOTE": {
+            "th": "หมายเหตุ",
+            "en": "note"
+        }
+    },
+    {
+        "MORE_FROM_THE_DOCUMENTATION": {
+            "th": "เพิ่มเติมได้จากเอกสารคู่มือ",
+            "en": "More from the documentation"
+        }
+    },
+    {
+        "SCORE_THAT_EXCEEDS_THE_MAXIMUM_SCORE_SET": {
+            "th": "คะแนนที่ให้เกินระดับคะแนนมากสุดที่กำหนดไว้",
+            "en": "Score that exceeds the maximum score set"
+        }
+    },
+    {
+        "CAN_GIVE_GRADE": {
+            "th": "สามารถให้เกรดเป็น",
+            "en": "Can give grade"
+        }
+    },
+    {
+        "DETERMINE_THE_FINAL_EXAM_SCORE": {
+            "th": "กำหนดให้คะแนนสอบปลายภาค",
+            "en": "Determine the final exam score"
+        }
+    },
+    {
+        "TOTAL_PERCENTAGE_VALUE": {
+            "th": "ค่าเปอร์เซนต์รวมทั้งหมด",
+            "en": "Total percentage value"
+        }
+    },
+    {
+        "IS_A_GRADE": {
+            "th": "เป็นเกรด",
+            "en": "Is a grade"
+        }
+    },
+    {
+        "TRANSFER_GRADE": {
+            "th": "โอนเกรด",
+            "en": "Transfer grade"
+        }
+    },
+    {
+        "RESIGN": {
+            "th": "ลาออก",
+            "en": "resign"
+        }
+    },
+    {
+        "PLEASE_CHECK_THE_GRADE,_EDIT_AND_SAVE_THE_NEW_INFORMATION.": {
+            "th": "โปรดตรวจสอบเกรดแก้ไขและบันทึกข้อมูลใหม่",
+            "en": "Please check the grade, edit and save the new information."
+        }
+    },
+    {
+        "USE_THE_SYSTEM": {
+            "th": "ใช้ระบบ",
+            "en": "Use the system"
+        }
+    },
+    {
+        "FILL_OUT_THE_SCORE_LESS": {
+            "th": "กรอกคะแนนน้อยกว่า",
+            "en": "Fill out the score less"
+        }
+    },
+    {
+        "TO_UPDATE_GRADES": {
+            "th": "เพื่ออัพเดทเกรด",
+            "en": "To update grades"
+        }
+    },
+    {
+        "SCORE": {
+            "th": "คะแนน",
+            "en": "score"
+        }
+    },
+    {
+        "ONLY": {
+            "th": "เท่านั้น",
+            "en": "only"
+        }
+    },
+    {
+        "SCATTER_TABLE": {
+            "th": "ตารางกระจายคะแนน",
+            "en": "Scatter table"
+        }
+    },
+    {
+        "FREQUENTLY__ASKED__QUESTIONS": {
+            "th": "คำถามที่ถามบ่อย",
+            "en": "Frequently Asked Questions"
+        }
+    },
+    {
+        "DO_NOT_MIND": {
+            "th": "ไม่ต้องสนใจ",
+            "en": "Do not mind"
+        }
+    },
+    {
+        "SCORE_RECORD": {
+            "th": "บันทึกคะแนน",
+            "en": "Score record"
+        }
+    },
+    {
+        "TOTAL": {
+            "th": "รวม",
+            "en": "Total"
+        }
+    },
+    {
+        "ALL_GRADES": {
+            "th": "เกรดเข้าไปเองทั้งหมด",
+            "en": "All grades"
+        }
+    },
+    {
+        "FULL": {
+            "th": "เต็ม",
+            "en": "full"
+        }
+    },
+    {
+        "TO_GRADE": {
+            "th": "ให้เกรดเป็น",
+            "en": "To grade"
+        }
+    },
+    {
+        "BRANCH": {
+            "th": "สาขาวิชา",
+            "en": "Branch"
+        }
+    },
+    {
+        "NOT_USING_THE_SYSTEM": {
+            "th": "ไม่ใช้ระบบ",
+            "en": "Not using the system"
+        }
+    },
+    {
+        "AGAIN": {
+            "th": "อีกครั้ง",
+            "en": "Again"
+        }
+    },
+    {
+        "AND": {
+            "th": "และ",
+            "en": "And"
+        }
+    },
+    {
+        "THE_PROGRAM_WILL_NOT_SAVE_POINTS_FOR": {
+            "th": "โปรแกรมจะไม่ทำการบันทึกคะแนนให้",
+            "en": "The program will not save points for"
+        }
+    },
+    {
+        "THE_LOWEST_SCORE_THAT_THE_SYSTEM_CAN_CALCULATE_GRADE": {
+            "th": "คะแนนต่ำสุดที่ระบบสามารถคำนวณเกรด",
+            "en": "The lowest score that the system can calculate grade"
+        }
+    },
+    {
+        "RESET": {
+            "th": "รีเซ็ต",
+            "en": "Reset"
+        }
+    },
+    {
+        "MUST_BE_EQUAL_TO": {
+            "th": "ต้องเท่ากับ",
+            "en": "Must be equal to"
+        }
+    },
+    {
+        "GIVE_GRADE": {
+            "th": "ให้เกรด",
+            "en": "Give grade"
+        }
+    },
+    {
+        "PLEASE_PRESS_THE_BUTTON": {
+            "th": "โปรดกดปุ่ม",
+            "en": "Please press the button"
+        }
+    },
+    {
+        "PLEASE_SEE_OTHER_DETAILS.": {
+            "th": "โปรดดูรายระเอียดอื่นๆ",
+            "en": "Please see other details."
+        }
+    },
+    {
+        "BUT_HAVE_ENTERED_THE_TEST_SCORE_MORE_THAN": {
+            "th": "แต่มีการป้อนคะแนนผลสอบเกินกว่า",
+            "en": "But have entered the test score more than"
+        }
+    },
+    {
+        "CATEGORY": {
+            "th": "ประเภท",
+            "en": "category"
+        }
+    },
+    {
+        "PLEASE_WAIT": {
+            "th": "โปรดรอสักครู่",
+            "en": "Please wait"
+        }
+    },
+    {
+        "CHECK_THE_SCORE": {
+            "th": "ตรวจสอบคะแนน",
+            "en": "Check the score"
+        }
+    },
+    {
+        "DOWNLOAD_THE_CLASS_SCHEDULE_AND_GRADE_FILES": {
+            "th": "ดาวน์โหลดไฟล์ตารางคะแนนและเกรดของรายวิชา",
+            "en": "Download the class schedule and grade files"
+        }
+    },
+    {
+        "COURSE_SCORE_RECORD": {
+            "th": "บันทึกคะแนนรายวิชา",
+            "en": "Course score record"
+        }
+    },
+    {
+        "HAVE": {
+            "th": "ได้",
+            "en": "have"
+        }
+    },
+    {
+        "YOU_WANT_TO_GIVE_GRADE": {
+            "th": "คุณต้องการที่จะให้เกรด",
+            "en": "You want to give grade"
+        }
+    },
+    {
+        "SET_THE_SCORE_CRITERIA": {
+            "th": "กำหนดเกณฑ์คะแนน",
+            "en": "Set the score criteria"
+        }
+    },
+    {
+        "TERM": {
+            "th": "ประจำภาคเรียนที่",
+            "en": "Term"
+        }
+    },
+    {
+        "STUDY": {
+            "th": "เรียน",
+            "en": "study"
+        }
+    },
+    {
+        "NEXT": {
+            "th": "หน้าต่อไป",
+            "en": "next"
+        }
+    },
+    {
+        "LAST_PAGE": {
+            "th": "หน้าสุดท้าย",
+            "en": "last page"
+        }
+    },
+    {
+        "THIS_COURSE_CANNOT_PROVIDE_GRADES.": {
+            "th": "รายวิชานี้ไม่สามารถให้เกรดเป็น",
+            "en": "This course cannot provide grades."
+        }
+    },
+    {
+        "SCORING_SYSTEM_AND_CUTTING_GRADES": {
+            "th": "ระบบบันทึกคะแนนและตัดเกรด",
+            "en": "Scoring system and cutting grades"
+        }
+    },
+    {
+        "STATUS": {
+            "th": "สถานะภาพ",
+            "en": "Status"
+        }
+    },
+    {
+        "PLEASE_CHECK_THE_STUDENT'S_CODE.": {
+            "th": "กรุุณาตรวจสอบคะแนนของนักศึกษารหัส",
+            "en": "Please check the student's code."
+        }
+    },
+    {
+        "MUST_RECORD": {
+            "th": "ต้องทำการบันทึกข้อมูล",
+            "en": "Must record"
+        }
+    },
+    {
+        "THE_PROGRAM_IS_CURRENTLY_SEARCHING_FOR_INFORMATION.": {
+            "th": "ขณะนี้โปรแกรมกำลังทำการสืบค้นข้อมูลอยู่",
+            "en": "The program is currently searching for information."
+        }
+    },
+    {
+        "OR": {
+            "th": "หรือ",
+            "en": "or"
+        }
+    },
+    {
+        "TO_FILL_OUT_ALL_NEW_POINTS": {
+            "th": "เพื่อกรอกคะแนนใหม่ทั้งหมด",
+            "en": "To fill out all new points"
+        }
+    },
+    {
+        "SHOULD_AT_LEAST_HAVE_AN_EVALUATION_IN_THE_FORM": {
+            "th": "อย่างน้อยที่สุดควรจะมีการประเมินผลในแบบ",
+            "en": "Should at least have an evaluation in the form"
+        }
+    },
+    {
+        "RAW_SCORE": {
+            "th": "คะแนนดิบ",
+            "en": "raw score"
+        }
+    },
+    {
+        "THEREFORE,_ALL_GRADES_AND_GRADES_MUST_BE_ENTERED_INTO_THE_SYSTEM.": {
+            "th": "ดังนั้นจะต้องกรอกข้อมูลทั้งเกรดและคะแนนเข้าไปในระบบ",
+            "en": "Therefore, all grades and grades must be entered into the system."
+        }
+    },
+    {
+        "STUDENT": {
+            "th": "น.ศ.",
+            "en": "student"
+        }
+    },
+    {
+        "AT_": {
+            "th": "ที่",
+            "en": "at "
+        }
+    },
+    {
+        "BACK_TO_": {
+            "th": "กลับไป",
+            "en": "back to "
+        }
+    },
+    {
+        "ON": {
+            "th": "ประจำภาค",
+            "en": "on"
+        }
+    },
+    {
+        "IS_": {
+            "th": "คือ",
+            "en": "is "
+        }
+    },
+    {
+        "PLEASE_SEE_OTHER_DETAILS.": {
+            "th": "โปรดดูรายระเอียดอื่น ๆ",
+            "en": "Please see other details."
+        }
+    },
+    {
+        "NEXT": {
+            "th": "ต่อไป",
+            "en": "next"
+        }
+    }
+]

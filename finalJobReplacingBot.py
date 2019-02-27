@@ -6,7 +6,7 @@ import json
 import pprint
 import re
 
-with io.open('combinded.json', 'r',encoding="utf-8")as jsonFile:
+with io.open('resultCombinded.json', 'r',encoding="utf-8")as jsonFile:
     jsonObject= json.load(jsonFile)
 
 keyJsons=[]

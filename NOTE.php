@@ -15,7 +15,6 @@ case 1: $type_name = $translate["KEY"]; break;
 
 require_once("../translate.php"); 
 $translate = init_translate("./FILE_NAME.lang.json")
-// ../ ตามจำนวน folder ถ้า 2 ชั้นก็เป็น ../../
 
 
 
